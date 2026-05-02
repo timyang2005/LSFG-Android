@@ -1,5 +1,7 @@
 # LSFG-Android — frame generation on Android via the lsfg-vk pipeline
 
+[![Discord](https://img.shields.io/discord/1496212333595463780?label=Discord&logo=discord)](https://discord.gg/CkuumNJ7s4)
+
 LSFG-Android brings the [`lsfg-vk`](https://github.com/PancakeTAS/lsfg-vk)
 Vulkan frame-generation pipeline to Android. Because Android 12+ blocks
 loading external code into non-debuggable processes, the layer can't hook
