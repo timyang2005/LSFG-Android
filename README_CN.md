@@ -46,7 +46,7 @@ LSFG-Android 是一个通过 Vulkan 实现 Lossless Scaling 帧生成的 Android
 
 ## 下载安装
 
-从 [Releases](https://github.com/timyang2005/LSFG-Android-Chinese/releases) 页面下载 APK：
+从 [Releases](https://github.com/timyang2005/LSFG-Android/releases) 页面下载 APK：
 
 - `app-arm64-v8a-debug.apk` — 适用于 ARM64 设备（大多数手机）
 - `app-x86_64-debug.apk` — 适用于 x86_64 设备（模拟器/部分平板）
@@ -56,7 +56,7 @@ LSFG-Android 是一个通过 Vulkan 实现 Lossless Scaling 帧生成的 Android
 ## 编译
 
 ```sh
-cd LSFG-Android-LSFG-Android-Application
+cd LSFG-Android-Application
 ./gradlew :app:assembleDebug
 ```
 
